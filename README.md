@@ -1,6 +1,5 @@
 #AID1911 GIT学习
 
-##第一种方法.8
-aaaaaaaaaaaa
+##python 第二阶段
 
 ![](/bc.jpeg)
